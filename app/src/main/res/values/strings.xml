@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile_title">Profile</string>
+    <string name="friends_title">Friends</string>
+    <string name="news_title">News</string>
+</resources>
